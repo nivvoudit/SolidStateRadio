@@ -1,6 +1,6 @@
 {
   "settings": {
-    "currentPage": "SolidStateRadio.html",
+    "currentPage": "index.html",
     "versionFirst": "2.11.1",
     "versionPublish": "4.7.7",
     "name": "SolidStateRadio",
@@ -180,7 +180,7 @@
         }
       ]
     },
-    "SolidStateRadio.html": {
+    "index.html": {
       "settings": {
         "main": true,
         "title": "Solid State Radio ",
@@ -695,31 +695,6 @@
           ],
           "_name": "social-buttons1",
           "_anchor": "social-buttons1-o"
-        },
-        {
-          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
-          "_params": {
-            "paddingTop": 0,
-            "paddingBottom": 0,
-            "postToLoad": 3,
-            "facebook": "https://www.facebook.com/profile.php?id=61552791712281",
-            "twitter": "mobirise",
-            "google": "+mobirise",
-            "youtube": "https://www.youtube.com/@solidstateradio",
-            "bgColorRadio": true,
-            "bgColor": "#fff",
-            "bgImageRadio": false,
-            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
-            "overlay": true,
-            "overlayColor": "#7e9b9f",
-            "overlayOpacity": 0.6
-          },
-          "alias": "social-feed",
-          "_tags": [
-            "Extension"
-          ],
-          "_name": "feed",
-          "_anchor": "feed-p"
         }
       ]
     }
