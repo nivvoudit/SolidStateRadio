@@ -1,0 +1,727 @@
+{
+  "settings": {
+    "currentPage": "SolidStateRadio.html",
+    "versionFirst": "2.11.1",
+    "versionPublish": "4.7.7",
+    "name": "SolidStateRadio",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {},
+      "additionalSetColors": [
+        "#f8a528",
+        "#3c3c3c"
+      ]
+    },
+    "favicon": "",
+    "google-analytics": "",
+    "cookiesAlert": "",
+    "path": "@PROJECT_PATH@",
+    "screenshot": "screenshot.png",
+    "siteFonts": [],
+    "uniqCompNum": 26,
+    "noImageResize": "",
+    "gdpr": "",
+    "siteUrl": "undefined"
+  },
+  "pages": {
+    "page1.html": {
+      "settings": {
+        "meta_descr": "Web Site Builder Description",
+        "title": "Page 1",
+        "order": 2
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "12px"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "16px"
+            },
+            ".mbr-navbar__items a SPAN": {
+              "font-size": "12px"
+            }
+          },
+          "_name": "ext.menu",
+          "_customCSS": "/*sets semitransparent color to sticky scroll navbar*/\n.mbr-navbar--stuck& .mbr-navbar__section {\nbackground: rgba(76, 139, 76, 0.6)!important;\n}\n.mbr-section__container {\ntext-align: center;\nwidth: 100%;\n}\n",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#000000",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2023-12-21-at-1.41.44-pm-removebg-preview-125x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "active": true
+            },
+            "iconFont": {
+              "classPrefix": "mdi-",
+              "name": "av-play-circle-fill",
+              "class": "mbr-iconfont mbr-iconfont-ext__menu",
+              "linkInNewWindow": false,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://mobiriseforum.co.uk\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">SOLIDSTATERADIOBAND.COM</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 18px;\"></span>HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"template7.html#content5-166\"><span class=\"mdi-social-person-add mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 18px;\"></span>ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"SolidStateRadio.html#gallery1-1\"><span class=\"mdi-communication-live-help mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 18px;\"></span>MEDIA</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"template7.html#form1-7\"><span class=\"mdi-communication-email mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 18px;\"></span>CONTACT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"SolidStateRadio.html#content5-l\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 18px;\"></span>SHOWS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://solidstateradio.storenvy.com\" target=\"_blank\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 18px;\"></span>MERCH</a></li>   ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"template7.html#video1-6\" data-toolbar=\"-mbrBtnMove\">NEW ROMANTIC REBELS<br></a></li>",
+          "_anchor": "ext_menu-2"
+        },
+        {
+          "_name": "contacts3",
+          "_styles": {
+            "STRONG": {
+              "color": "#ffffff"
+            },
+            ".btn": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "12px"
+            }
+          },
+          "_customCSS": ".btn {\n \n    background: none;/*this for transparent button*/\n    border: 3px solid grey;/* this is for button border*/\n    color: white;/* this is text colour*/\n}\na:hover {\nbackground-color: grey;/* button hover colour*/\nborder: 3px solid white;\n    color: white;/* text hover colour*/\n}\n",
+          "_params": {
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/downloads-bg-1850x400-83.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#3c3c3c",
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.6"
+          },
+          "text1": "<strong>ADDRESS</strong><br>Add your details here<br>\nCity, AA 99999<br><br>\n<strong>CONTACTS</strong><br>\nEmail: info@mobiriseforum.co.uk<br>\nPhone: +1 (0) 000 0000 001<br>\nFax: +1 (0) 000 0000 002",
+          "text2": "<p class=\"mbr-contacts__text\"><strong>LINKS</strong></p><ul class=\"mbr-contacts__list\"><li>Your links here</li><li>Your links here</li><li>Your links here</li><li>Your links here</li></ul>",
+          "form": {
+            "title": "MESSAGE",
+            "action": "",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "title": "Name",
+                "visible": true,
+                "customTitle": "Name*"
+              },
+              "email": {
+                "title": "Email",
+                "visible": true,
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "title": "Phone",
+                "visible": false,
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-default\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove,-mbrBtnRemove\"><span class=\"mdi-content-mail mbr-iconfont mbr-iconfont-btn\"></span>CONTACT US</a>",
+          "_anchor": "contacts3-3"
+        },
+        {
+          "_name": "footer1",
+          "_customHTML": "<footer class=\"mbr-section mbr-section--relative mbr-section--fixed-size\" style=\"background-color: rgb(0, 0, 0);\">\n    \n    <div class=\"mbr-section__container container\">\n        <div class=\"mbr-footer mbr-footer--wysiwyg row\" style=\"padding-top: 36.900000000000006px; padding-bottom: 36.900000000000006px;\">\n            <div class=\"col-sm-12\">\n                <p class=\"mbr-footer__copyright mbr-editable-content\" code-editable-id=\"9\">2016 mobiriseforum.co.uk - stcdesigns.com - with thanks to startbootstrap.com</p>\n            </div>\n        </div>\n    </div>\n    <!-- BEGIN: Powered by Supercounters.com -->\n<left>{JS_CODE_0}{JS_CODE_1}<br><noscript>&amp;lt;a href=\"http://www.supercounters.com\"&amp;gt;Tumblr Hit Counter&amp;lt;/a&amp;gt;</noscript>\n</left>\n<!-- END: Powered by Supercounters.com -->\n\n</footer>",
+          "_PHPplaceholders": [],
+          "_JSplaceholders": [
+            "<script type=\"text/javascript\" src=\"http://widget.supercounters.com/texthit.js\"></script>",
+            "<script type=\"text/javascript\">var sc_texthit_var = sc_texthit_var || [];sc_text_hit(1272020,\"V\",\"ffffff\");</script>"
+          ],
+          "_customCSS": "P {\n\tcolor: #41a85f;\n}\n",
+          "_customTemplate": true,
+          "_params": {
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#000000",
+            "overlay": true,
+            "overlayColor": "#444444",
+            "overlayOpacity": 0.8
+          },
+          "text": "2016 mobiriseforum.co.uk - stcdesigns.com - with thanks to startbootstrap.com",
+          "_anchor": "footer1-4"
+        }
+      ]
+    },
+    "SolidStateRadio.html": {
+      "settings": {
+        "main": true,
+        "title": "Solid State Radio ",
+        "meta_descr": "Solid State Radio",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_inherit": "menu",
+          "_styles": {
+            ".mbr-brand__name": {
+              "font-size": "16px"
+            },
+            "&.mbr-navbar--stuck .mbr-navbar__section": {
+              "background": "#000000"
+            },
+            ".mbr-navbar__section": {},
+            ".mbr-navbar__hamburger": {
+              "color": "#ffffff"
+            },
+            ".mbr-navbar__items a": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "12px"
+            },
+            ".mbr-brand__name a": {
+              "font-family": "'Roboto Condensed', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Roboto+Condensed:400,300,700",
+              "font-size": "16px"
+            },
+            ".mbr-navbar__items a SPAN": {
+              "font-size": "12px"
+            }
+          },
+          "_name": "ext.menu",
+          "_customCSS": "/*sets semitransparent color to sticky scroll navbar*/\n.mbr-navbar--stuck& .mbr-navbar__section {\nbackground: rgba(76, 139, 76, 0.6)!important;\n}\n.mbr-section__container {\ntext-align: center;\nwidth: 100%;\n}\n",
+          "_anchor": "ext_menu-165",
+          "_params": {
+            "logo": true,
+            "showBrand": true,
+            "showButtons": true,
+            "sticky": true,
+            "collapsed": false,
+            "transparent": true,
+            "color": "#000000",
+            "hamburgerColor": "#ffffff"
+          },
+          "logo": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/screen-shot-2023-12-21-at-1.41.44-pm-removebg-preview-125x128.png",
+              "class": "mbr-navbar__brand-img mbr-brand__img",
+              "height": 128,
+              "alt": "Mobirise",
+              "link": "https://mobirise.com",
+              "title": "",
+              "active": true
+            },
+            "iconFont": {
+              "classPrefix": "mdi-",
+              "name": "av-play-circle-fill",
+              "class": "mbr-iconfont mbr-iconfont-ext__menu",
+              "linkInNewWindow": false,
+              "link": "https://mobirise.com",
+              "size": 0
+            }
+          },
+          "brand": "<a class=\"mbr-brand__name text-white\" data-app-btn=\"true\" href=\"http://mobiriseforum.co.uk\" data-app-selector=\".mbr-brand__name a\" data-app-placeholder=\"Type Brand Name\" data-toolbar=\"-mbrBtnMove,-mbrBtnAdd,-mbrBtnRemove,mbrColor\" target=\"_blank\">SOLIDSTATERADIOBAND.COM</a>",
+          "items": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"#top\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 18px;\"></span>HOME</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"template7.html#content5-166\"><span class=\"mdi-social-person-add mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 18px;\"></span>ABOUT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"SolidStateRadio.html#gallery1-1\"><span class=\"mdi-communication-live-help mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 18px;\"></span>MEDIA</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"template7.html#form1-7\"><span class=\"mdi-communication-email mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 18px;\"></span>CONTACT</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"SolidStateRadio.html#content5-l\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 18px;\"></span>SHOWS</a></li> <li class=\"mbr-navbar__item\"><a data-app-btn=\"true\" class=\"mbr-buttons__link btn mbr-menu-item text-white\" data-app-selector=\".mbr-navbar__items a\" href=\"https://solidstateradio.storenvy.com\" target=\"_blank\"><span class=\"mdi-action-home mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 18px;\"></span>MERCH</a></li>   ",
+          "buttons": "<li class=\"mbr-navbar__item\"><a data-app-btn=\"parent\" class=\"mbr-buttons__btn btn btn-default\" data-app-selector=\".mbr-navbar__items a\" href=\"template7.html#video1-6\" data-toolbar=\"-mbrBtnMove\">NEW ROMANTIC REBELS<br></a></li>"
+        },
+        {
+          "_inherit": "header1",
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_name": "header4",
+          "_styles": {
+            "SPAN": {
+              "font-size": "20px"
+            },
+            "H1": {
+              "font-size": "84px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "color": "#f8a528"
+            },
+            "P": {
+              "color": "#f8a528",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "25px"
+            },
+            ".btn": {
+              "font-size": "20px"
+            }
+          },
+          "_customCSS": "h1, {\n    font-size: 50px;\n    font-size: 5.3vw;\n}\n",
+          "_anchor": "header4-164",
+          "_params": {
+            "showTitle": true,
+            "showText": true,
+            "showButtons": true,
+            "showArrow": false,
+            "contentAlign": "center",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-718-1170x737.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#4c6972",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.7"
+          },
+          "title": "SOLID STATE RADIO",
+          "text": "<br>Black American Britpop",
+          "buttons": " <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default animated fadeInUp delay\" href=\"template7.html#form1-7\" data-toolbar=\"-mbrBtnMove\">BOOK US<span class=\"mdi-file-file-download mbr-iconfont mbr-iconfont-btn\" style=\"font-size: 30px;\"><br></span></a> "
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#f8a528",
+              "font-size": "60px",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#c1c1c1",
+              "text-align": "center",
+              "font-size": "18px"
+            },
+            ".mbr-article DIV": {
+              "color": "#f8a528"
+            },
+            ".mbr-article P": {
+              "color": "#f8a528",
+              "text-align": "center",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "30px"
+            }
+          },
+          "_name": "content5",
+          "_customCSS": "",
+          "_anchor": "content5-166",
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": false,
+            "paddingTop": "4",
+            "paddingBottom": "0",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/screen-shot-2024-01-14-at-8.40.42-pm-1340x1028.png",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#000000",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#000000",
+            "overlayOpacity": "0.7"
+          },
+          "title": "ABOUT US",
+          "meta": "",
+          "text": "<p><br></p><p>We are Solid State Radio, a dynamic Rock and Roll band merging</p><p>the soulful roots of Black American music with the infectious </p><p>energy of Britpop. </p><p><br></p><p>With a fusion that transcends borders, our sound is a captivating </p><p>journey through rhythm and melody, crafting a unique sonic </p><p>experience that resonates with diverse musical influences. </p><p><br></p><p>Get ready to groove to the soulful beats and Britpop vibes of</p><p>Solid State Radio.<br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p><br></p><p></p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">LEARN MORE</a>"
+        },
+        {
+          "_styles": {},
+          "_params": {
+            "showText": false,
+            "bgColor": "#252525"
+          },
+          "media": {
+            "image": {
+              "src": "@PROJECT_PATH@/assets/images/romanticrebels-1-1280x720.jpg",
+              "class": "mbr-figure__img",
+              "width": 1400,
+              "link": "",
+              "alt": "",
+              "title": ""
+            },
+            "video": {
+              "active": true,
+              "class": "mbr-figure__img",
+              "src": "https://www.youtube.com/watch?v=GXWtxq_FcJA",
+              "autoplay": "on",
+              "loop": false,
+              "aspectratio": "16:9"
+            }
+          },
+          "text": "Cut down the development time with drag-and-drop website builder.",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "video1",
+          "_anchor": "video1-6"
+        },
+        {
+          "_params": {
+            "fullWidth": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "noGutter": true,
+            "showText": false,
+            "showBullets": true,
+            "bgColor": "#000000",
+            "images": [
+              {
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2024-01-14-at-8.39.17-pm-1198x1200.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2024-01-14-at-8.39.17-pm-1198x1200-800x719.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2023-12-21-at-1.39.41-pm-1182x1122.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2023-12-21-at-1.39.41-pm-1182x1122-800x757.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2023-12-21-at-1.39.28-pm-1178x1134.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2023-12-21-at-1.39.28-pm-1178x1134-800x771.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2024-01-14-at-9.29.38-pm-1296x1334.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2024-01-14-at-9.29.38-pm-1296x1334-800x825.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2024-01-14-at-8.41.23-pm-1086x1036.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2024-01-14-at-8.41.23-pm-1086x1036-800x689.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": true
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/screen-shot-2024-01-14-at-9.32.09-pm-1534x1310.png",
+                "thumb": "@PROJECT_PATH@/assets/images/screen-shot-2024-01-14-at-9.32.09-pm-1534x1310-800x672.png",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-1018-2000x1756.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-1018-2000x1756-800x657.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              },
+              {
+                "image": "@PROJECT_PATH@/assets/images/img-852-1170x785.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/img-852-1170x785-800x599.jpg",
+                "alt": "",
+                "title": "",
+                "caption": "Type caption here",
+                "active": false
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "gallery1",
+          "_anchor": "gallery1-1"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "showName": true,
+            "showBio": true,
+            "count": 3,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": false,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-828-1170x1297.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#c1c1c1",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.8"
+          },
+          "header": "WHAT OUR FANS SAY",
+          "items": [
+            {
+              "authorName": "BUTCH WALKER",
+              "authorBio": "Producer",
+              "text": "<p class=\"mbr-reviews__p\">\"If you're looking for a band that pushes boundaries and delivers a one-of-a-kind performance, Solid State Radio is the answer. These guys are on the rise, and I wouldn't be surprised to see them making waves in the music scene very soon.\"</p>"
+            },
+            {
+              "authorName": "JACK WHITE",
+              "authorBio": "Musician",
+              "text": "<p class=\"mbr-reviews__p\">\"Solid State Radio is like a sonic collision of two worlds – the gritty soul of Black America meeting the rebellious spirit of Britpop. Witnessing their live performance is like stepping into a musical time machine where the raw emotion of blues intertwines with the infectious energy of Brit-rock. The energy on stage is electrifying, and the way they seamlessly blend different musical elements is a testament to their artistry.\"</p><p class=\"mbr-reviews__p\"><br></p>"
+            },
+            {
+              "authorName": "TONY SCALZO",
+              "authorBio": "Musician - Fastball",
+              "text": "<p class=\"mbr-reviews__p\">\"Solid State Radio doesn't just play music; they create an experience. From soulful ballads to upbeat Britpop anthems, each song is a journey that keeps the audience hooked from start to finish. Their passion for music is palpable, and it's infectious – you can't help but get swept up in the groove. These guys are craftsmen, curating a sound that's not just heard but felt. Their ability to seamlessly blend diverse influences is a testament to true artistry. Solid State Radio takes you on a journey through the heart and soul of their music. They're not just a band; they're sonic architects building a bridge between cultures and eras. Catch them live, and you'll understand why I'm excited that the future of music is in excellent hands.\"<br></p>"
+            }
+          ],
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "testimonials1",
+          "_anchor": "testimonials1-9",
+          "testimonial": [
+            {
+              "authorName": "BUTCH WALKER",
+              "authorBio": "Producer",
+              "text": "<p class=\"mbr-reviews__p\">\"If you're looking for a band that pushes boundaries and delivers a one-of-a-kind performance, Solid State Radio is the answer. These guys are on the rise, and I wouldn't be surprised to see them making waves in the music scene very soon.\"</p>"
+            },
+            {
+              "authorName": "JACK WHITE",
+              "authorBio": "Musician",
+              "text": "<p class=\"mbr-reviews__p\">\"Solid State Radio is like a sonic collision of two worlds – the gritty soul of Black America meeting the rebellious spirit of Britpop. Witnessing their live performance is like stepping into a musical time machine where the raw emotion of blues intertwines with the infectious energy of Brit-rock. The energy on stage is electrifying, and the way they seamlessly blend different musical elements is a testament to their artistry.\"</p><p class=\"mbr-reviews__p\"><br></p>"
+            },
+            {
+              "authorName": "TONY SCALZO",
+              "authorBio": "Musician - Fastball",
+              "text": "<p class=\"mbr-reviews__p\">\"Solid State Radio doesn't just play music; they create an experience. From soulful ballads to upbeat Britpop anthems, each song is a journey that keeps the audience hooked from start to finish. Their passion for music is palpable, and it's infectious – you can't help but get swept up in the groove. These guys are craftsmen, curating a sound that's not just heard but felt. Their ability to seamlessly blend diverse influences is a testament to true artistry. Solid State Radio takes you on a journey through the heart and soul of their music. They're not just a band; they're sonic architects building a bridge between cultures and eras. Catch them live, and you'll understand why I'm excited that the future of music is in excellent hands.\"<br></p>"
+            }
+          ],
+          "_styles": {
+            ".mbr-reviews__author-bio": {
+              "text-align": "center",
+              "font-size": "16px",
+              "color": "#000000"
+            },
+            ".mbr-reviews__author-name": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "text-align": "center",
+              "color": "#000000"
+            },
+            ".mbr-reviews__text P": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "text-align": "center",
+              "color": "#7c706b"
+            },
+            ".mbr-section__header": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "font-size": "16px",
+              "color": "#000000"
+            }
+          }
+        },
+        {
+          "_inherit": "msg-box3",
+          "_styles": {
+            ".mbr-header .mbr-header__text": {
+              "text-align": "center",
+              "color": "#fff",
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            },
+            ".mbr-header .mbr-header__subtext": {
+              "text-align": "center",
+              "color": "#fff"
+            },
+            ".mbr-article": {
+              "color": "#fff"
+            },
+            ".mbr-article P": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700",
+              "text-align": "center"
+            },
+            ".btn": {
+              "font-family": "'Oswald', sans-serif",
+              "googleLink": "https://fonts.googleapis.com/css?family=Oswald:400,300,700"
+            }
+          },
+          "_params": {
+            "showTitle": true,
+            "showMeta": false,
+            "showCaption": "noCaption",
+            "showText": true,
+            "showButton": true,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/img-721-1160x880.jpg",
+            "parallax": false,
+            "bgColorRadio": false,
+            "bgColor": "#fff",
+            "bgVideoRadio": false,
+            "bgVideo": {
+              "url": "http://www.youtube.com/watch?v=uNCr7NdOJgw"
+            },
+            "darkBackground": true,
+            "overlay": true,
+            "overlayColor": "#28324e",
+            "overlayOpacity": "0.5"
+          },
+          "title": "UPCOMING SHOWS",
+          "text": "<p>Sunday Jan 21, 2024</p><p>Star Bar</p><p>437 Moreland Ave NE</p><p>Atlanta GA, GA 30307</p><p>SOLID STATE RADIO W/RADIO RUSE, PUSHBACKS, AND DJ JACKIE O</p><p>Solid State Radio w/Radio Ruse, Pushbacks, and DJ Jackie O</p>",
+          "button": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://www.freshtix.com/events/solidstateradio\" data-toolbar=\"-mbrBtnMove\" target=\"_blank\">CLICK FOR TICKETS</a>",
+          "_tags": [
+            "Theme"
+          ],
+          "meta": "By John Smith posted July 30, 2015",
+          "_name": "content5",
+          "_anchor": "content5-l"
+        },
+        {
+          "_params": {
+            "showTitle": true,
+            "paddingTop": "4",
+            "paddingBottom": "4",
+            "bgImageRadio": true,
+            "bgImage": "@PROJECT_PATH@/assets/images/951cf12a-1760-4eea-bfbc-b565d427654e-2000x2000.jpg",
+            "parallax": true,
+            "bgColorRadio": false,
+            "bgColor": "#efefef",
+            "overlay": true,
+            "overlayColor": "#222",
+            "overlayOpacity": "0.6"
+          },
+          "title": "BOOK US",
+          "buttons": "<a data-app-btn=\"true\" type=\"submit\" class=\"mbr-buttons__btn btn btn-lg btn-warning\" data-toolbar=\"-mbrLink,-mbrBtnAdd,-mbrBtnMove\">SUBMIT</a>",
+          "form": {
+            "action": "nivvoudit@gmail.com",
+            "alerts": {
+              "success": "Thanks for filling out form!"
+            },
+            "fields": {
+              "name": {
+                "visible": true,
+                "title": "Name",
+                "customTitle": "Name*"
+              },
+              "email": {
+                "visible": true,
+                "title": "Email",
+                "customTitle": "Email*"
+              },
+              "phone": {
+                "visible": true,
+                "title": "Phone",
+                "customTitle": "Phone"
+              },
+              "message": {
+                "title": "Message",
+                "customTitle": "Message"
+              }
+            }
+          },
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "form1",
+          "_anchor": "form1-7",
+          "_styles": {
+            ".mbr-header__text": {
+              "color": "#fac51c"
+            }
+          }
+        },
+        {
+          "_params": {
+            "inverse": false,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "bgImageRadio": false,
+            "bgImage": "images/bg3.jpg",
+            "parallax": true,
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "overlay": false,
+            "overlayColor": "#222",
+            "overlayOpacity": 0.5,
+            "counters": true,
+            "facebook": true,
+            "google": true,
+            "twitter": true
+          },
+          "text": "SHARE THIS PAGE!",
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "social-buttons1",
+          "_anchor": "social-buttons1-o"
+        },
+        {
+          "loadsvg": "@PROJECT_PATH@/assets/images/loading.svg",
+          "_params": {
+            "paddingTop": 0,
+            "paddingBottom": 0,
+            "postToLoad": 3,
+            "facebook": "https://www.facebook.com/profile.php?id=61552791712281",
+            "twitter": "mobirise",
+            "google": "+mobirise",
+            "youtube": "https://www.youtube.com/@solidstateradio",
+            "bgColorRadio": true,
+            "bgColor": "#fff",
+            "bgImageRadio": false,
+            "bgImage": "@ADDONS_PATH@/social-feed/feed/assets/comments_bg.jpg",
+            "overlay": true,
+            "overlayColor": "#7e9b9f",
+            "overlayOpacity": 0.6
+          },
+          "alias": "social-feed",
+          "_tags": [
+            "Extension"
+          ],
+          "_name": "feed",
+          "_anchor": "feed-p"
+        }
+      ]
+    }
+  }
+}
